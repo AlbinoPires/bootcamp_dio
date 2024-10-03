@@ -1,4 +1,4 @@
-# DIO | Resumos Git e GitHub
+# DIO | Bootcamp em parceria com GFT para os candidatos com melhor performance terem a chance de estágio nessa empresa memorável!
 
 ## 📚 Estudo em linguagem de programação 💻 
 
