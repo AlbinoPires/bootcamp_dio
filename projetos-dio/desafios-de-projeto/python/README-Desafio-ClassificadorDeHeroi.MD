@@ -40,7 +40,9 @@ Aplicamos boas práticas de codificação em ambos os códigos, como:
 
 ### Exemplo de Funcionamento:
 
-![Exemplo de Funcionamento](./python/funcionamentoPython.png)  <!-- Corrigido o nome da imagem -->
+![Exemplo de Funcionamento](https://github.com/AlbinoPires/bootcamp_dio/blob/main/projetos-dio/desafios-de-projeto/python/funcionamentoPython.png)
+
+  <!-- Corrigido o nome da imagem -->
 
 ---
 
