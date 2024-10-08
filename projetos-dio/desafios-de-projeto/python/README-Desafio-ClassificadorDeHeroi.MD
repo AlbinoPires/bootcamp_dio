@@ -1,6 +1,10 @@
-O seu **README** para o projeto em Python está muito bem estruturado e claro! A única coisa que você pode querer ajustar é a repetição do título "**Classificador de Nível de Herói**" duas vezes, o que pode ser confuso visualmente.
+O **README** que você descreveu está bem estruturado, mas há algumas correções e ajustes a serem feitos:
 
-Aqui está um ajuste com algumas pequenas melhorias e sem a repetição do título:
+1. **Correção de imagem**: O caminho da imagem está errado para o Python, já que a imagem está nomeada como **funcionamentoPython.png** e não apenas **funcionamento.png**. Vamos corrigir isso.
+
+2. **Remover o título repetido**: Como você mencionou que o título estava repetido anteriormente, já foi removido, mas é sempre bom reforçar.
+
+Aqui está a versão corrigida:
 
 ---
 
@@ -8,7 +12,7 @@ Aqui está um ajuste com algumas pequenas melhorias e sem a repetição do títu
 
 ### Desafio proposto no bootcamp:
 
-O objetivo deste desafio é criar um classificador de heróis com base na experiência (XP) acumulada. O herói será classificado em diferentes níveis. Será apresentado um bloco de código de acordo com o solicitado e em caso de sugestão fique à vontade, estou aprendendo e disposto a adquirir mais conhecimento!
+O objetivo deste desafio é criar um classificador de heróis com base na experiência (XP) acumulada. O herói será classificado em diferentes níveis. Será apresentado um bloco de código de acordo com o solicitado, e em caso de sugestão fique à vontade, estou aprendendo e disposto a adquirir mais conhecimento!
 
 ### Informações do Aluno:
 
@@ -36,8 +40,9 @@ Aplicamos boas práticas de codificação em ambos os códigos, como:
 
 ### Exemplo de Funcionamento:
 
-![Exemplo de Funcionamento](./python/funcionamento.png)
+![Exemplo de Funcionamento](./python/funcionamentoPython.png)  <!-- Corrigido o nome da imagem -->
 
+---
 
 ### Setup Utilizado:
 
@@ -57,7 +62,7 @@ Aplicamos boas práticas de codificação em ambos os códigos, como:
 
 ### Entendendo o Desafio:
 
-Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos abordados até aqui e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o que pode fazer toda diferença em suas entrevistas técnicas 😎.
+Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos abordados até aqui e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o que pode fazer toda a diferença em suas entrevistas técnicas 😎.
 
 Neste repositório, insira todos os links e arquivos necessários para seu projeto, seja um arquivo de banco de dados ou um link para o template no Figma.
 
@@ -97,4 +102,6 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 
 Ao final, deve-se exibir uma mensagem no formato:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
+
+---
 

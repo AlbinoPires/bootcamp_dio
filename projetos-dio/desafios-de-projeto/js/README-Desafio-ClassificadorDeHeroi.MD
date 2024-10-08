@@ -33,7 +33,7 @@ Aplicamos boas práticas de codificação em ambos os códigos, como:
 
 ### Exemplo de Funcionamento:
 
-![Exemplo de Funcionamento](./js/funcionamento.png)
+![Exemplo de Funcionamento](./js/funcionamentoJS.png)
 
 
 ### Setup Utilizado:
