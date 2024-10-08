@@ -1,7 +1,8 @@
 # Git Troubleshooting: Removendo Submódulos ou Repositórios Embutidos
 
 ### Problema:
-Ao tentar organizar pastas em um repositório no GitHub, você pode ver uma **seta no ícone da pasta** e perceber que os arquivos não aparecem corretamente dentro dela. Isso acontece porque o Git está tratando a pasta como um **submódulo** ou **repositório embutido**, apontando para outro repositório.
+Ao tentar organizar pastas em um repositório no GitHub, você pode ver uma **seta no ícone da pasta** e perceber que os arquivos não aparecem corretamente dentro dela, aconteceu comigo. Isso acontece porque o Git está tratando a pasta como um **submódulo** ou **repositório embutido**, apontando para outro repositório. Minha pasta local e sua organização estava correta, em dado momento eu possa ter errado de onde eu executei o 'git add .' isso me rendeu uma dedicação para compreender
+o que aconteceu de fato.
 
 ### Solução Passo a Passo:
 
