@@ -60,7 +60,8 @@ Neste repositório, insira todos os links e arquivos necessários para seu proje
 
 ### Exemplo de Funcionamento:
 
-![Exemplo de Funcionamento](https://github.com/AlbinoPires/bootcamp_dio/blob/main/projetos-dio/desafios-de-projeto-2/js/desafio-js.png)
+![Exemplo de Funcionamento](desafio-js/desafio-js.png)
+
 
 ---
 
