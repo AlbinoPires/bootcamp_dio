@@ -33,7 +33,7 @@ Aplicamos boas práticas de codificação em ambos os códigos, como:
 
 ### Exemplo de Funcionamento:
 
-![Exemplo de Funcionamento](https://github.com/AlbinoPires/bootcamp_dio/blob/main/projetos-dio/desafios-de-projeto/js/funcionamentoJS.png)
+![Exemplo de Funcionamento](https://github.com/AlbinoPires/bootcamp_dio/blob/main/projetos-dio/desafios-de-projeto-1/js/funcionamentoJS.png)
 
 
 
