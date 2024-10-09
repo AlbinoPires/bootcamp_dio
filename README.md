@@ -1,4 +1,4 @@
-# DIO | Bootcamp em parceria com GFT para os candidatos com melhor performance terem a chance de estágio nessa empresa memorável!
+# DIO | Bootcamp em parceria com GFT, com possibilidade de ser chamado para estagiar!!!
 
 ## 📚 Estudo em linguagem de programação 💻 
 
@@ -7,7 +7,7 @@
 - Detalhes do bootcamp
 Já pensou estagiar em uma multinacional alemã? Sim vou buscar minha vaga, com foco, dedicação e conhecimento, desta forma seja bem vindo a este repositório.
 
-- Aprendendo lógica de programação, programação orientada a objetos e saia aprendendo a aplicar isso na sua primeira linguagem. Os destaques que cumprirem os requisitos farão parte do processo seletivo para vagas remotas disponíveis.
+- Aprendendo lógica de programação, especificamente em JavaScript, programação orientada a objetos e saia aprendendo a aplicar isso na sua primeira linguagem. Os destaques que cumprirem os requisitos farão parte do processo seletivo para vagas remotas disponíveis.
 
 
 - Atividades:
@@ -16,3 +16,4 @@ Já pensou estagiar em uma multinacional alemã? Sim vou buscar minha vaga, com 
   * Desafio de Código: Colando em prática todo o conhecimento adquirido nas aulas e teste de conhecimento na resolução de um desafio.
 
   * Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com o conhecimento adquirido ao longo das aulas.
+  * Temos um projeto entregue (meu primeiro LoL), caso se interessem, cliquem no repositório bootcamp_dio e fiquem à vontade!
