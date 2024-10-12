@@ -15,7 +15,7 @@ Aqui está o README ajustado conforme as sugestões:
 ### Linguagens Utilizadas:
 
 - JavaScript
-- Python
+
 
 # Projeto: Heroi de Aventura
 
